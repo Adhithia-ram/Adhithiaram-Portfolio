@@ -7,7 +7,7 @@
 ## 🔗 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/adhithia-ram/)
-- 📧 Email: your.email@example.com
+- 📧 Email: adhith@umich.edu
 
 ## 🛠️ About This Repo
 
